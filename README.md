@@ -1,5 +1,5 @@
 # diskrete_simulation
-Das ist eine Monte- Carlo Simulation einer Pizzeria, die die optimale Anzahl der Fahrern bestimmt, sodass der durchschnittliche Tagesgewinn maximiert wird.
+Das ist eine Monte- Carlo Simulation einer Pizzeria, die die optimale Anzahl der Fahrern bestimmt, sodass der durchschnittliche Jahresgewinn maximiert wird.
 
 TECH STACK
 
